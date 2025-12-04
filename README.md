@@ -30,7 +30,7 @@ No installation required - just click the link above to start predicting stock p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Inferno5704/Stock-Prediction-App-using-LSTM.git
+   git clone https://github.com/XSuhaniSinghX/Stock-Prediction-App-using-LSTM2.git
    cd Stock-Prediction-App-using-LSTM
    ```
 
